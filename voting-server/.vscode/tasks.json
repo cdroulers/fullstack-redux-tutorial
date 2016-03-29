@@ -26,10 +26,11 @@
       "problemMatcher": "$tsc"
     },
     {
-      "taskName": "test",
+      "taskName": "test:watch",
       "args": [
       ],
-      "isTestCommand": true
+      "isTestCommand": true,
+      "isWatching": true
     }
   ]
 }
