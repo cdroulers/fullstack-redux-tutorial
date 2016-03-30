@@ -12,10 +12,13 @@
       "commit": "ee9c524295333250ddbc7364f27c8b2ccd84b18a"
     },
     "node/node.d.ts": {
-      "commit": "ee9c524295333250ddbc7364f27c8b2ccd84b18a"
+      "commit": "fc0f5a34aaadbea0eb2901d06db775f1960ba17a"
     },
     "redux/redux.d.ts": {
       "commit": "ee9c524295333250ddbc7364f27c8b2ccd84b18a"
+    },
+    "socket.io/socket.io.d.ts": {
+      "commit": "fc0f5a34aaadbea0eb2901d06db775f1960ba17a"
     }
   }
 }
